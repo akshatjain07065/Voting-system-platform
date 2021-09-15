@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:36:48 2019
+
+			------------------------------------------- 
+			Name           : Naina Gogoi
+			Father's Name  : Surya Gogoi
+			Village/Town   : Doomdooma
+			District       : tinsukia
+			State          : assam
+			Constituency   : Lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 06/06/1996
+			Gender         : F
+			Aadhat ID      : 5656KJHG7890GHUL
+
+			-------------------------------------------
+

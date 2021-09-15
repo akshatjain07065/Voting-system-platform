@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:38:52 2019
+
+			------------------------------------------- 
+			Name           : Abhisekh Dutta
+			Father's Name  : Satya Duttaa
+			Village/Town   : Doomdooma
+			District       : tinsukia
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 07/07/1998
+			Gender         : M
+			Aadhat ID      : 5678QWER1234TYUI
+
+			-------------------------------------------
+

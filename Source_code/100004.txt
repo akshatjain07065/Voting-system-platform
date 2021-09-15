@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:30:14 2019
+
+			------------------------------------------- 
+			Name           : Rahul majumder
+			Father's Name  : Ankur majumder
+			Village/Town   : sookerating tea estate
+			District       : tinsukia
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 11/11/1989
+			Gender         : m
+			Aadhat ID      : 1234ASDF5678GHJK
+
+			-------------------------------------------
+

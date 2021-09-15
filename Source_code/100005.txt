@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:33:32 2019
+
+			------------------------------------------- 
+			Name           : Ram mohan
+			Father's Name  : Tikhar Mohan
+			Village/Town   : doomdooma
+			District       : tinsukia
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 07/07/1997
+			Gender         : M
+			Aadhat ID      : 6767MNBV1234KJHG
+
+			-------------------------------------------
+

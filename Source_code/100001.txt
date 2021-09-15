@@ -1,0 +1,17 @@
+
+Voter's information' on: Fri May 03 05:01:05 2019
+
+-------------------------------------------
+ 
+Name          : Mrinal Baruah
+Father's Name : Jayanta Baruah
+Village/Town  : Kakopather
+District      : Tinsukia
+State         : Assam
+Constituency  : Lakhimpur
+PinCode       : 765522
+Date of birth : 7/12/1984
+Gender(M/F)   : M
+Aadhat ID     : 876hsdf78879asdff
+
+-------------------------------------------

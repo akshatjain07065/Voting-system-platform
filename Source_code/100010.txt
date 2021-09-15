@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:43:41 2019
+
+			------------------------------------------- 
+			Name           : Herok Das
+			Father's Name  : Rajen Das
+			Village/Town   : doomdooma
+			District       : tinsukia
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 12/12/1996
+			Gender         : M
+			Aadhat ID      : 6789VBNM6789ZXCV
+
+			-------------------------------------------
+

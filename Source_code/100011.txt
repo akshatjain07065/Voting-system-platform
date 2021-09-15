@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 05:57:03 2019
+
+			------------------------------------------- 
+			Name           : Tanuj
+			Father's Name  : G Baruah
+			Village/Town   : DDM
+			District       : Tsk
+			State          : Assam
+			Constituency   : Lakhimpur
+			PinCode        : 654465
+			DOB(dd/mm/yyyy): 7/11/1981
+			Gender         : M
+			Aadhat ID      : bkj3432434jkh
+
+			-------------------------------------------
+

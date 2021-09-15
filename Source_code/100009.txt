@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:41:05 2019
+
+			------------------------------------------- 
+			Name           : Nitesh Jain
+			Father's Name  : Dinesh Jain
+			Village/Town   : doomdooma
+			District       : tinsukia
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 10/10/1997
+			Gender         : M
+			Aadhat ID      : 1234ASDF1234ASDF
+
+			-------------------------------------------
+

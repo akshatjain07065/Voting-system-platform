@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:25:53 2019
+
+			------------------------------------------- 
+			Name           : suman das
+			Father's Name  : rajkumar das
+			Village/Town   : doomdooma
+			District       : tinsukia
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 12/04/1992
+			Gender         : M
+			Aadhat ID      : 12QE23ZX34MK2156
+
+			-------------------------------------------
+

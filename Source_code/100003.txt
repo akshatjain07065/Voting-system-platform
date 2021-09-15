@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:27:53 2019
+
+			------------------------------------------- 
+			Name           : Shanti dutta
+			Father's Name  : Binod dutta
+			Village/Town   : Doomdooma
+			District       : tinsukia
+			State          : Assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 12/07/1998
+			Gender         : F
+			Aadhat ID      : 66MN6454KJYG12ER
+
+			-------------------------------------------
+

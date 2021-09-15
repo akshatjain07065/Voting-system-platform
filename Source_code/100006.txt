@@ -1,0 +1,17 @@
+
+			Updated Voter's information' on: Fri May 03 03:35:18 2019
+
+			------------------------------------------- 
+			Name           : Pritaam das
+			Father's Name  : Abhijit das
+			Village/Town   : doomdooma
+			District       : tinsukia 
+			State          : assam
+			Constituency   : lakhimpur
+			PinCode        : 786151
+			DOB(dd/mm/yyyy): 08/08/1999
+			Gender         : M
+			Aadhat ID      : 4545DQWE3434VCXZ
+
+			-------------------------------------------
+
